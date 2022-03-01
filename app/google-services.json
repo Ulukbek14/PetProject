@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "33115816794",
+    "firebase_url": "https://petproject-66d82-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "petproject-66d82",
+    "storage_bucket": "petproject-66d82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33115816794:android:56d5b1f71dd57a598b2963",
+        "android_client_info": {
+          "package_name": "com.geektech.petproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33115816794-fjdkkrfq25tgr6j4h6jv9mrpdqha5664.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5l2Lt3O_a8J1fi4iOb-lJk8KfvkeVSAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33115816794-fjdkkrfq25tgr6j4h6jv9mrpdqha5664.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
